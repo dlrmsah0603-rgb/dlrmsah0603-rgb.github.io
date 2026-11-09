@@ -1,6 +1,6 @@
 ---
 title: LV.3 정수 삼각형 (동적계획법(Dynamic Programming))
-date: 2026-11-10 12:41:00 +0900
+date: 2026-11-10 00:41:00 +0900
 categories: [Coding, Programmers]
 tags: [DP, Dynamic-Programming]
 ---
