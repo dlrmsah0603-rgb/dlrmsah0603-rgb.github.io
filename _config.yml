@@ -118,7 +118,7 @@ comments:
   giscus:
     repo: dlrmsah0603-rgb/dlrmsah0603-rgb.github.io
     repo_id: "R_kgDOVoOTzQ"
-    category: Announcements # 또는 General
+    category: General
     category_id: "DIC_kwDOVoOTzc4DKvT8"
     mapping: pathname
     strict: 0
